@@ -15,4 +15,5 @@ Evaluate the model's predictive performance using regression metrics such as Mea
 Develop a user-friendly web application using Streamlit that allows users to input details of a flat (town, flat type, storey range, etc.). Utilize the trained machine learning model to predict the resale price based on user inputs.
 ### Deployment on Render:
 Deploy the Streamlit application on the Render platform to make it accessible to users over the internet.
-### Testing and Validation: Thoroughly test the deployed application to ensure it functions correctly and provides accurate predictions.
+### Testing and Validation: 
+Thoroughly test the deployed application to ensure it functions correctly and provides accurate predictions.
